@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0a6ee59-77e0-4f62-bd45-2b1b16b80c88" name="Changes" comment="Update WordCRUD, WordManager Class&#10;File load 기능 구현">
+    <list default="true" id="f0a6ee59-77e0-4f62-bd45-2b1b16b80c88" name="Changes" comment="Update Word, WordCRUD, WordManager Class&#10;File save 기능 구현">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/Word.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordCRUD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycom/word/WordManager.java" afterDir="false" />
     </list>
@@ -72,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1693901212415</updated>
       <workItem from="1693901213589" duration="2563000" />
-      <workItem from="1694157225330" duration="7476000" />
+      <workItem from="1694157225330" duration="8396000" />
     </task>
     <task id="LOCAL-00001" summary="build change">
       <option name="closed" value="true" />
@@ -122,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694512501395</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update Word, WordCRUD, WordManager Class&#10;File save 기능 구현">
+      <option name="closed" value="true" />
+      <created>1694571110322</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1694571110323</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +164,7 @@
     <MESSAGE value="Update WordCRUD, WordManager Class&#10;update 기능 구현" />
     <MESSAGE value="Update WordCRUD, WordManager Class&#10;delate 기능 구현" />
     <MESSAGE value="Update WordCRUD, WordManager Class&#10;File load 기능 구현" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update WordCRUD, WordManager Class&#10;File load 기능 구현" />
+    <MESSAGE value="Update Word, WordCRUD, WordManager Class&#10;File save 기능 구현" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Word, WordCRUD, WordManager Class&#10;File save 기능 구현" />
   </component>
 </project>
