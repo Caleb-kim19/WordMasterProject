@@ -25,3 +25,4 @@
 1|discard|버리다
 1|unfortunate|불운한
 1|branch|나뭇가지
+1| banana|바나나
